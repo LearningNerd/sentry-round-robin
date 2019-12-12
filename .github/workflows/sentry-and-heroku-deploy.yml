@@ -13,5 +13,5 @@ jobs:
           SENTRY_ORG: liz
           SENTRY_PROJECT: round-robin
         with:
-          tagName: new tclindner-test
+          tagName: new-tclindner-test
           environment: test-ga
